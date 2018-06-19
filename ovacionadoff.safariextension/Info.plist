@@ -7,9 +7,9 @@
 	<key>Builder Version</key>
 	<string>13605.1.33.1.4</string>
 	<key>CFBundleDisplayName</key>
-	<string>Ovacionado</string>
+	<string>Ovacionadoff</string>
 	<key>CFBundleIdentifier</key>
-	<string>net.agurodriguez.ovacionado</string>
+	<string>net.agurodriguez.ovacionadoff</string>
 	<key>CFBundleInfoDictionaryVersion</key>
 	<string>6.0</string>
 	<key>CFBundleShortVersionString</key>
@@ -47,6 +47,6 @@
 		</dict>
 	</dict>
 	<key>Website</key>
-	<string>https://github.com/agurodriguez/ovacionado</string>
+	<string>https://github.com/agurodriguez/ovacionadoff</string>
 </dict>
 </plist>
