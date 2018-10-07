@@ -1,3 +1,3 @@
 # ovacionadoff
 
-Safari Extension to prevent ovaciondigital.com.uy from forcing you to sign up in order to read their articles Edit
+Safari Extension para poder leer artículos de ovaciondigital.com.uy sin tener que registrarte.
