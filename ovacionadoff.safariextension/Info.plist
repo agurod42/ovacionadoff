@@ -5,7 +5,7 @@
 	<key>Author</key>
 	<string>agurodriguez</string>
 	<key>Builder Version</key>
-	<string>13605.1.33.1.4</string>
+	<string>13606.2.11</string>
 	<key>CFBundleDisplayName</key>
 	<string>Ovacionadoff</string>
 	<key>CFBundleIdentifier</key>
@@ -13,7 +13,7 @@
 	<key>CFBundleInfoDictionaryVersion</key>
 	<string>6.0</string>
 	<key>CFBundleShortVersionString</key>
-	<string>1.1</string>
+	<string>1.2</string>
 	<key>CFBundleVersion</key>
 	<string>1</string>
 	<key>Content</key>
@@ -27,7 +27,7 @@
 		</dict>
 	</dict>
 	<key>Description</key>
-	<string>Extensión para quitar el modal que te obliga a registrarte para ver el contenido de Ovación</string>
+	<string>Safari Extension para poder leer artículos de ovaciondigital.com.uy sin tener que registrarte</string>
 	<key>DeveloperIdentifier</key>
 	<string>3GYXKN5H34</string>
 	<key>ExtensionInfoDictionaryVersion</key>
