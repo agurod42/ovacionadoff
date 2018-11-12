@@ -6,7 +6,7 @@ XMLHttpRequest.prototype.open = function (method, url) {
 
 XMLHttpRequest.prototype.protoSend = XMLHttpRequest.prototype.send;
 XMLHttpRequest.prototype.send = function (data) { 
-    if (this.requestURL == '/user/welcome') {
+    if (/.*evolok.net\/.*\/paywall/g.test(this.requestURL)) {
         return;
     }
 
